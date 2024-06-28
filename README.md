@@ -1,4 +1,4 @@
-﻿# Kelas-Kecerdasan-Buatan
+﻿# ShortestPath-TSP-MapColoringCsp
 
 ## algoritma pencarian A* (A-star) untuk menemukan jalur terpendek dalam graf berbobot
 
